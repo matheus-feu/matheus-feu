@@ -6,7 +6,7 @@
 - 📌 De Guarulhos, São Paulo, Brasil. 
 - 🌱 Atualmente estou aprendendo Python, C, HTML, CSS, SQL, Git, GitHub, Windows, Arduino, Raspberry Pi, entre outros.
 - ⚡ Curiosidades sobre mim: Eu gosto de jogar vôlei e pedalar, assistir filmes e séries, ouvir músicas, ler livros, jogar LOL e jogar videogame.
-- ⌚ [![wakatime](https://wakatime.com/badge/user/2a3952e5-8999-48cf-85c1-4fcb424b6091.svg)](https://wakatime.com/@2a3952e5-8999-48cf-85c1-4fcb424b6091)
+- ⌚ [![wakatime](https://wakatime.com/badge/user/3bd24664-869f-460a-94e1-b98da8136504.svg)](https://wakatime.com/@3bd24664-869f-460a-94e1-b98da8136504)
 
 <div>
     <a href="https://github.com/Havokzbr">
@@ -14,7 +14,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havokzbr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
-	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Assis/8849525f-b093-4dd9-90a2-82b54184c692.png" /></a>
+	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Feu/80c1dcca-258a-416f-9cf2-1a1610410edf.png" /></a>
 </div>
 	  
 ### ⚙ Skills:
