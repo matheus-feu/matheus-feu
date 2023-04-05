@@ -10,8 +10,8 @@
 
 <div>
     <a href="https://github.com/Havokzbr">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-feu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-feu&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-feu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-feu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
 	<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Feu/80c1dcca-258a-416f-9cf2-1a1610410edf.png" /></a>
