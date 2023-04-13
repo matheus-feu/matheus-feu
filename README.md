@@ -2,7 +2,7 @@
 
 ### Sobre mim 🤓
 
-- 🎓 Apaixonado por tecnologia, programação e desenvolvimento de software. Estudante de Engenharia de Computação no Centro Universitário das Américas - FAM, em São Paulo.
+- 🎓 Apaixonado por tecnologia, programação e desenvolvimento de softwares. Estudante de Engenharia de Computação.
 - 📌 De Guarulhos, São Paulo, Brasil. 
 - 🌱 Estudando e desenvolvendo com a linguagem Python, criação de REST API's (Flask, FastAPI, Django), conhecimento com Docker e Banco de Dados(SQL, PostgresSQL, MySQL, MongoDB)
 - ⚡ Curiosidades sobre mim: Eu gosto de jogar vôlei e pedalar, assistir filmes e séries, ouvir músicas, ler livros, jogar LOL e jogar videogame.
