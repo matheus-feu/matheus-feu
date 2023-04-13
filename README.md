@@ -4,7 +4,7 @@
 
 - 🎓 Apaixonado por tecnologia, programação e desenvolvimento de software. Estudante de Engenharia de Computação no Centro Universitário das Américas - FAM, em São Paulo.
 - 📌 De Guarulhos, São Paulo, Brasil. 
-- 🌱 Atualmente estou aprendendo Python, C, HTML, CSS, SQL, Git, GitHub, Windows, Arduino, Raspberry Pi, entre outros.
+- 🌱 Estudando e desenvolvendo com a linguagem Python, criação de REST API's (Flask, FastAPI, Django), conhecimento com Docker e Banco de Dados(SQL, PostgresSQL, MySQL, MongoDB)
 - ⚡ Curiosidades sobre mim: Eu gosto de jogar vôlei e pedalar, assistir filmes e séries, ouvir músicas, ler livros, jogar LOL e jogar videogame.
 - ⌚ [![wakatime](https://wakatime.com/badge/user/3bd24664-869f-460a-94e1-b98da8136504.svg)](https://wakatime.com/@3bd24664-869f-460a-94e1-b98da8136504)
 
