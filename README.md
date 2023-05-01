@@ -8,7 +8,6 @@
   Docker e Banco de Dados(SQL, PostgresSQL, MySQL, MongoDB)
 - ⚡ Curiosidades sobre mim: Eu gosto de jogar vôlei e pedalar, assistir filmes e séries, ouvir músicas, ler livros,
   jogar LOL e jogar videogame.
--
 ⌚ [![wakatime](https://wakatime.com/badge/user/3bd24664-869f-460a-94e1-b98da8136504.svg)](https://wakatime.com/@3bd24664-869f-460a-94e1-b98da8136504)
 
 <div>
