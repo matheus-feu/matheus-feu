@@ -4,7 +4,7 @@
 
 - 🎓 Apaixonado por tecnologia, programação e desenvolvimento de softwares. Estudante de Engenharia de Computação.
 - 📌 De São Paulo, São Paulo, Brasil.
-- 🌱 Estudando e desenvolvendo com a linguagem Python, criação de REST API's (Flask, FastAPI, Django), conhecimento com
+- 🌱 Desenvolvedor Python, criação de REST API's (Flask, FastAPI, Django), conhecimento com
   Docker e Banco de Dados(SQL, PostgresSQL, MySQL, MongoDB)
 - ⚡ Curiosidades sobre mim: Eu gosto de jogar vôlei e pedalar, assistir filmes e séries, ouvir músicas, ler livros,
   jogar LOL e jogar videogame.
