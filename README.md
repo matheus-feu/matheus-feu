@@ -2,6 +2,8 @@
 
 💻 Backend Engineer | Python | Django | FastAPI | AWS | LangChain | APIs Escaláveis | Automação | IA (RAG)
 
+[![wakatime](https://wakatime.com/badge/user/3bd24664-869f-460a-94e1-b98da8136504.svg)](https://wakatime.com/@3bd24664-869f-460a-94e1-b98da8136504)
+
 ---
 
 ## 🚀 Sobre mim
